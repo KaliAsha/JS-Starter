@@ -2,7 +2,6 @@
 A simple boilerplate to start javascript projects faster
 
 ### TODO :
-- .csscomb.json
 - .eslintrc.js
 - package.json
 - gulpfile.js
@@ -14,3 +13,4 @@ A simple boilerplate to start javascript projects faster
 - LICENSE
 - .gitignore
 - .editorconfig
+- .csscomb.json
