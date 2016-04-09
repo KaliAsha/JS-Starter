@@ -1,0 +1,25 @@
+{
+  "name": "js-starter",
+  "version": "0.0.0",
+  "description": "A Simple Boilerplate To Start Javascript Projects Faster",
+  "main": "",
+  "scripts": {
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliAsha/JS-Starter.git"
+  },
+  "keywords": [
+    "Javascript",
+    "QuickStart",
+    "Boilerplate"
+  ],
+  "author": "Kaliasha <kaliasha.kali@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaliAsha/JS-Starter/issues"
+  },
+  "homepage": "https://github.com/KaliAsha/JS-Starter#readme"
+}
