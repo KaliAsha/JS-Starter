@@ -2,7 +2,6 @@
 A simple boilerplate to start javascript projects faster
 
 ### TODO :
-- .eslintrc.js
 - gulpfile.js
 - webpack.conf.js
 
@@ -14,3 +13,4 @@ A simple boilerplate to start javascript projects faster
 - .editorconfig
 - .csscomb.json
 - package.json
+- .eslintrc.js
